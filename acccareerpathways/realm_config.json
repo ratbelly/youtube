@@ -1,0 +1,8 @@
+{
+    "app_id": "careerpathways-ckbis",
+    "config_version": 20210101,
+    "name": "careerpathways",
+    "location": "US-VA",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
